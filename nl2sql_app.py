@@ -156,7 +156,7 @@ def generate_nl(sql_result, question):
     answer = completion.choices[0].message.content  
     return answer
 
-
+# Create a Streamlit app
 st.title("Music DB Assistant 🎵")
 st.write("Ask a question about your music collection")
 
