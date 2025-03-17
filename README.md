@@ -57,14 +57,14 @@ Question:
 Find the artist who has collaborated with the most distinct other artists (as a featured or main artist on a song), but has never released a song as a solo artist, along with the number of unique collaborators they have worked with.
 ```
 
-![alt text](./images/image-3.png)
+![alt text](./Images/image-3.png)
 
 ```Markdown
 Question:
 Jeg trenger å finne artistnavn og sangnavn for alle låttitler som inkluderer tekststrengen “the”
 ```
 
-![alt text](./images/image-6.png)
+![alt text](./Images/image-6.png)
 
 ## Challenges
 
@@ -85,33 +85,33 @@ I think the method can be quite useful for companies, because by using prompt en
 ## More Examples
 
 Streamlit application
-![alt text](./images/image-10.png)
+![alt text](./Images/image-10.png)
 
 ```Markdown
 Question:
 Songs longer than 220 seconds
 ```
 
-![alt text](./images/image-8.png)
-![alt text](./images/image-9.png)
+![alt text](./Images/image-8.png)
+![alt text](./Images/image-9.png)
 
 ```Markdown
 Question:
 Finn artistnavnet og antallet gjesteopptredener for den artisten med flest gjesteopptredener 
 ```
 
-![alt text](./images/image-7.png)
+![alt text](./Images/image-7.png)
 
 ```Markdown
 Question:
 Find the name of the artist who has released the most songs, but has never been a featured artist on any song, along with the total number of songs they have released.
 ```
 
-![alt text](./images/image-1.png)
+![alt text](./Images/image-1.png)
 
 ```Markdown
 Question:
 I wonder which artist who has released songs in the most distinct years, but has never released a song on an album, along with the number of distinct years they have released songs.
 ```
 
-![alt text](./images/image-2.png)
+![alt text](./Images/image-2.png)
